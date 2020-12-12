@@ -1,0 +1,14 @@
+[
+    {
+        "name": "cong hai",
+        "email": "email2@gmail.com",
+        "password": "pass123456",
+        "passwordConfirm": "pass123456"
+    },
+    {
+        "name": "quach cong hai",
+        "email": "email1@gmail.com",
+        "password": "pass123456",
+        "passwordConfirm": "pass123456"
+    }
+]
